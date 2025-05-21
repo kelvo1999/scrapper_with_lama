@@ -19,8 +19,7 @@ Install Ollama
 Pull a model (e.g.):
 
 bash
-Copy
-Edit
+
 ollama pull mistral
 You can replace mistral with any other installed model in the script.
 

@@ -1,0 +1,518 @@
+2025-05-20 13:18:07,806 - INFO - Found 0 monthly links: 0 coupon, 0 hot buy
+2025-05-20 14:33:54,417 - INFO - Found 0 monthly links: 0 coupon, 0 hot buy
+2025-05-20 14:59:38,262 - INFO - Found 0 monthly links: 0 coupon, 0 hot buy
+2025-05-20 15:50:36,966 - INFO - Processing 2 monthly links: 1 coupon, 1 hot buy
+2025-05-20 15:50:36,966 - INFO - Processing Coupon Book: https://www.costcoinsider.com/costco-april-2025-coupon-book
+2025-05-20 15:50:38,398 - INFO - Extracted 0 characters from https://www.costcoinsider.com/costco-april-2025-coupon-book
+2025-05-20 15:50:38,398 - WARNING - Page text too short for https://www.costcoinsider.com/costco-april-2025-coupon-book, skipping
+2025-05-20 15:50:38,398 - INFO - Processing Hot Buy: https://www.costcoinsider.com/costco-april-2025-hot-buys-coupons
+2025-05-20 15:50:39,665 - INFO - Extracted 0 characters from https://www.costcoinsider.com/costco-april-2025-hot-buys-coupons
+2025-05-20 15:50:39,670 - WARNING - Page text too short for https://www.costcoinsider.com/costco-april-2025-hot-buys-coupons, skipping
+2025-05-20 15:58:22,345 - INFO - Tesseract initialized successfully
+2025-05-20 15:58:22,345 - INFO - Scraping Coupon Book...
+2025-05-20 15:58:25,846 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/
+2025-05-20 15:58:25,846 - WARNING - Brand file coupon_book_brands.txt not found. Using default brands.
+2025-05-20 15:58:25,855 - INFO - Found 19 coupon book images in #coupon-book
+2025-05-20 15:58:25,855 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-1-472x1024.jpg
+2025-05-20 15:58:27,615 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-1-472x1024.jpg
+2025-05-20 15:58:27,885 - INFO - Extracted text from image: CORE1S'x1¢istom Pop-up Canopy Timber Rae
+$3299"    $QQOFF ‘Imm
+AFTER $7 OFF                         ...
+2025-05-20 15:58:27,889 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-2-474x1024.jpg
+2025-05-20 15:58:29,713 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-2-474x1024.jpg
+2025-05-20 15:58:30,045 - INFO - Extracted text from image: $4399     $1499"             +€ustco.com
+AFTER $3 OFF            arTeR S4OrF 6 ER
+Hurtey en's Tee 2 ...
+2025-05-20 15:58:30,045 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-3-466x1024.jpg
+2025-05-20 15:58:31,695 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-3-466x1024.jpg
+2025-05-20 15:58:32,015 - INFO - Extracted text from image: I tncludes Installation \ + Costco.com
+SAVES4O-6O°            in
+ON ANY SET OF 4 Michelin Tires:    ...
+2025-05-20 15:58:32,015 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-4-469x1024.jpg
+2025-05-20 15:58:33,654 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-4-469x1024.jpg
+2025-05-20 15:58:34,226 - INFO - Extracted text from image: $3-12OFF (aaa
+$G-G5OOFrF”      crest
+($2 OFF Pro-Heatth Advanced Mouthwash:
+SR couagon Popes + Probi...
+2025-05-20 15:58:34,228 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-5-488x1024.jpg
+2025-05-20 15:58:35,891 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-5-488x1024.jpg
+2025-05-20 15:58:36,136 - INFO - Extracted text from image: Your         —
+PERFECT
+CLEAN/>) = I
+
+starts with §              N
+Oral B      _-
+* amie      evo ==
+...
+2025-05-20 15:58:36,137 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-6-467x1024.jpg
+2025-05-20 15:58:37,781 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-6-467x1024.jpg
+2025-05-20 15:58:38,185 - INFO - Extracted text from image: $45OOFF"
+$Q OFF                         Olay Advanced Moisture Renewal
+        Blond Body Wash 3:23....
+2025-05-20 15:58:38,187 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-7-461x1024.jpg
+2025-05-20 15:58:40,088 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-7-461x1024.jpg
+2025-05-20 15:58:40,405 - INFO - Extracted text from image: $goo TEED OF
+int             Hang Ten Women's Linen
+Blend Short AND/OR Sun Tea
+:           a}
+A Fthe...
+2025-05-20 15:58:40,407 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-8-466x1024.jpg
+2025-05-20 15:58:42,311 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-8-466x1024.jpg
+2025-05-20 15:58:42,654 - INFO - Extracted text from image: $1OOOFF"   $11OO°°F
+Midea    282 yon purifier
+Yano avy                                          ‘Soo...
+2025-05-20 15:58:42,655 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-9-461x1024.jpg
+2025-05-20 15:58:44,301 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-9-461x1024.jpg
+2025-05-20 15:58:44,728 - INFO - Extracted text from image: 1 aoe Series -        BB Cosizo com]
+Muu: CEE $3OO OFF’ Wa
+YOUR cosT                 © te onitook 7 ...
+2025-05-20 15:58:44,730 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-10-463x1024.jpg
+2025-05-20 15:58:46,333 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-10-463x1024.jpg
+2025-05-20 15:58:46,706 - INFO - Extracted text from image: $qorFF  SG OFF
+‘Downy Unstopabtes In-Wash.      ‘Tide PODS:
+‘Scent Beads 39.9 oz AND/OR      Free & ...
+2025-05-20 15:58:46,707 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-11-463x1024.jpg
+2025-05-20 15:58:48,502 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-11-463x1024.jpg
+2025-05-20 15:58:48,842 - INFO - Extracted text from image: $1,79999                           $g9999
+AFTER $SOOOFF           AFTER $25O OFF
+Zakary 6-Plece Fabr...
+2025-05-20 15:58:48,845 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-12-459x1024.jpg
+2025-05-20 15:58:50,523 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-12-459x1024.jpg
+2025-05-20 15:58:50,842 - INFO - Extracted text from image: $1OO-1,2OO°FF $2OO-75OO°FF
+Select Samsung Apphiences 9 €3 —Setect 16 Appiiances               oo
+Sen...
+2025-05-20 15:58:50,844 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-13-458x1024.jpg
+2025-05-20 15:58:52,974 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-13-458x1024.jpg
+2025-05-20 15:58:53,298 - INFO - Extracted text from image: $4 OFF,          $4 OFF
+Scotch-Brite®               a         Swiffer Heavy Duty Cloths
+Zare Scratch...
+2025-05-20 15:58:53,308 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-14-460x1024.jpg
+2025-05-20 15:58:55,162 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-14-460x1024.jpg
+2025-05-20 15:58:55,584 - INFO - Extracted text from image: $5 OFF              I
+Spindet Spackling Water         I $Q5OOFF
+aie pack, $O712 lor                 ...
+2025-05-20 15:58:55,588 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-15-459x1024.jpg
+2025-05-20 15:58:57,456 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-15-459x1024.jpg
+2025-05-20 15:58:57,781 - INFO - Extracted text from image: $Q8OOFF             $21OOFF
+‘Snack Factory Organic Pretzel Crisps     Late July     SS
+Boaz         ...
+2025-05-20 15:58:57,782 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-16-457x1024.jpg
+2025-05-20 15:58:59,574 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-16-457x1024.jpg
+2025-05-20 15:58:59,969 - INFO - Extracted text from image: $98 OFF
+‘K-Cup® Pods
+Clue Oot Origen en 77 OR Pets Clee Major Dickason's Bt 75
+ns        OUNKIN'
+Pee...
+2025-05-20 15:58:59,970 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-17-460x1024.jpg
+2025-05-20 15:59:01,785 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-17-460x1024.jpg
+2025-05-20 15:59:02,240 - INFO - Extracted text from image: $4, OFF
+Tattooed Chet Organic Agsibowts «= SOF F
+6.25OO
+Men 1322O6O,                                ...
+2025-05-20 15:59:02,242 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-18-453x1024.jpg
+2025-05-20 15:59:04,421 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-18-453x1024.jpg
+2025-05-20 15:59:04,907 - INFO - Extracted text from image: $3-5 OFF       I $4OFF
+$9 OFF Natal Meatonn 25O1,               (Ghracal Galcum ciate + O5.28O.
+Fast...
+2025-05-20 15:59:04,911 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-19-635x303.jpg
+2025-05-20 15:59:06,358 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-19-635x303.jpg
+2025-05-20 15:59:06,519 - INFO - Extracted text from image: SELF-CARE ESSENTIALS wmrmsssees oo,    el
+i        » gl on Top Pet        ob
+13 2 2
+
+sor  SHO SG5OOr...
+2025-05-20 15:59:06,880 - INFO - Saved 54 records to 2025-05-20_Coupon_Books.xlsx
+2025-05-20 15:59:06,880 - INFO - Scraping Hot Buys...
+2025-05-20 15:59:09,858 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-20 15:59:09,859 - WARNING - Brand file hot_buy_brands.txt not found. Using default brands.
+2025-05-20 15:59:09,873 - INFO - Found 11 hot buy images
+2025-05-20 15:59:09,874 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Address-book.png
+2025-05-20 15:59:10,579 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Address-book.png
+2025-05-20 15:59:10,684 - INFO - Extracted text from image: ...
+2025-05-20 15:59:10,684 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Person.png
+2025-05-20 15:59:11,374 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Person.png
+2025-05-20 15:59:11,475 - INFO - Extracted text from image: cs
+=...
+2025-05-20 15:59:11,475 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Questions.png
+2025-05-20 15:59:12,238 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Questions.png
+2025-05-20 15:59:12,336 - INFO - Extracted text from image: @...
+2025-05-20 15:59:12,336 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Mail.png
+2025-05-20 15:59:13,032 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Mail.png
+2025-05-20 15:59:13,127 - INFO - Extracted text from image: I...
+2025-05-20 15:59:13,127 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Paper.png
+2025-05-20 15:59:13,809 - ERROR - Error processing image https://www.costcoinsider.com/wp-content/plugins/wptouch/resources/icons/elegant/Paper.png: OpenCV(4.11.0) d:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0x4c23f504::Set<3,4,-1>,struct cv::impl::A0x4c23f504::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 2
+
+2025-05-20 15:59:13,810 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2018/11/Costco-Insider-Mobile1.png
+2025-05-20 15:59:14,595 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2018/11/Costco-Insider-Mobile1.png
+2025-05-20 15:59:14,705 - INFO - Extracted text from image: INSIDER ¢°...
+2025-05-20 15:59:14,706 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Cover-635x322.jpg
+2025-05-20 15:59:16,488 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Cover-635x322.jpg
+2025-05-20 15:59:16,624 - INFO - Extracted text from image: ——fo!
+nt  m        IN- WAREHOUSE
+“4 ".~\ I HOT BUYS
+Valid 4/28/25 - 5/11/25...
+2025-05-20 15:59:16,625 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-20 15:59:17,924 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-20 15:59:18,148 - INFO - Extracted text from image: $9 OFF                                $38O OFF                             S3Q OFF
+
+itn Signor Cicer...
+2025-05-20 15:59:18,149 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-20 15:59:19,439 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-20 15:59:19,657 - INFO - Extracted text from image: GAREHOUSE + ONLINE          ROREEHOUSE + OE          RUATEHOUSE + ONLI
+s2O.oFF             S55O     ...
+2025-05-20 15:59:19,658 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-20 15:59:20,820 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-20 15:59:20,999 - INFO - Extracted text from image: IN-WAREHOUSE + ONLINE:                                           IN-WAREHOUSE + ONLINE:
+$4 OFF      ...
+2025-05-20 15:59:21,001 - INFO - Downloading image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-20 15:59:21,913 - WARNING - Skipping non-image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-20 15:59:21,950 - INFO - Saved 6 records to 2025-05-20_Hot_Buys_Coupons.xlsx
+2025-05-20 15:59:21,950 - INFO - Done! Check the Excel files.
+2025-05-20 19:46:26,583 - INFO - Tesseract initialized successfully
+2025-05-20 19:46:26,583 - INFO - Scraping Coupon Book...
+2025-05-20 19:46:30,694 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/
+2025-05-20 19:46:30,703 - INFO - Found 19 coupon book images in #coupon-book
+2025-05-20 19:46:30,703 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-1-472x1024.jpg
+2025-05-20 19:46:32,919 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-1-472x1024.jpg
+2025-05-20 19:46:33,188 - INFO - Extracted text from image: CORE1S'x1¢istom Pop-up Canopy Timber Rae
+$3299"    $QQOFF ‘Imm
+AFTER $7 OFF                         ...
+2025-05-20 19:46:33,188 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-2-474x1024.jpg
+2025-05-20 19:46:35,014 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-2-474x1024.jpg
+2025-05-20 19:46:35,334 - INFO - Extracted text from image: $4399     $1499"             +€ustco.com
+AFTER $3 OFF            arTeR S4OrF 6 ER
+Hurtey en's Tee 2 ...
+2025-05-20 19:46:35,334 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-3-466x1024.jpg
+2025-05-20 19:46:37,334 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-3-466x1024.jpg
+2025-05-20 19:46:37,664 - INFO - Extracted text from image: I tncludes Installation \ + Costco.com
+SAVES4O-6O°            in
+ON ANY SET OF 4 Michelin Tires:    ...
+2025-05-20 19:46:37,664 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-4-469x1024.jpg
+2025-05-20 19:46:39,928 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-4-469x1024.jpg
+2025-05-20 19:46:40,383 - INFO - Extracted text from image: $3-12OFF (aaa
+$G-G5OOFrF”      crest
+($2 OFF Pro-Heatth Advanced Mouthwash:
+SR couagon Popes + Probi...
+2025-05-20 19:46:40,383 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-5-488x1024.jpg
+2025-05-20 19:46:42,708 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-5-488x1024.jpg
+2025-05-20 19:46:42,916 - INFO - Extracted text from image: Your         —
+PERFECT
+CLEAN/>) = I
+
+starts with §              N
+Oral B      _-
+* amie      evo ==
+...
+2025-05-20 19:46:42,916 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-6-467x1024.jpg
+2025-05-20 19:46:44,776 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-6-467x1024.jpg
+2025-05-20 19:46:45,181 - INFO - Extracted text from image: $45OOFF"
+$Q OFF                         Olay Advanced Moisture Renewal
+        Blond Body Wash 3:23....
+2025-05-20 19:46:45,181 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-7-461x1024.jpg
+2025-05-20 19:46:46,794 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-7-461x1024.jpg
+2025-05-20 19:46:47,109 - INFO - Extracted text from image: $goo TEED OF
+int             Hang Ten Women's Linen
+Blend Short AND/OR Sun Tea
+:           a}
+A Fthe...
+2025-05-20 19:46:47,109 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-8-466x1024.jpg
+2025-05-20 19:46:49,106 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-8-466x1024.jpg
+2025-05-20 19:46:49,438 - INFO - Extracted text from image: $1OOOFF"   $11OO°°F
+Midea    282 yon purifier
+Yano avy                                          ‘Soo...
+2025-05-20 19:46:49,438 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-9-461x1024.jpg
+2025-05-20 19:46:51,644 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-9-461x1024.jpg
+2025-05-20 19:46:52,014 - INFO - Extracted text from image: 1 aoe Series -        BB Cosizo com]
+Muu: CEE $3OO OFF’ Wa
+YOUR cosT                 © te onitook 7 ...
+2025-05-20 19:46:52,015 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-10-463x1024.jpg
+2025-05-20 19:46:54,117 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-10-463x1024.jpg
+2025-05-20 19:46:54,474 - INFO - Extracted text from image: $qorFF  SG OFF
+‘Downy Unstopabtes In-Wash.      ‘Tide PODS:
+‘Scent Beads 39.9 oz AND/OR      Free & ...
+2025-05-20 19:46:54,474 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-11-463x1024.jpg
+2025-05-20 19:46:56,764 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-11-463x1024.jpg
+2025-05-20 19:46:57,094 - INFO - Extracted text from image: $1,79999                           $g9999
+AFTER $SOOOFF           AFTER $25O OFF
+Zakary 6-Plece Fabr...
+2025-05-20 19:46:57,094 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-12-459x1024.jpg
+2025-05-20 19:46:59,464 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-12-459x1024.jpg
+2025-05-20 19:46:59,769 - INFO - Extracted text from image: $1OO-1,2OO°FF $2OO-75OO°FF
+Select Samsung Apphiences 9 €3 —Setect 16 Appiiances               oo
+Sen...
+2025-05-20 19:46:59,772 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-13-458x1024.jpg
+2025-05-20 19:47:01,837 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-13-458x1024.jpg
+2025-05-20 19:47:02,144 - INFO - Extracted text from image: $4 OFF,          $4 OFF
+Scotch-Brite®               a         Swiffer Heavy Duty Cloths
+Zare Scratch...
+2025-05-20 19:47:02,144 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-14-460x1024.jpg
+2025-05-20 19:47:04,314 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-14-460x1024.jpg
+2025-05-20 19:47:04,724 - INFO - Extracted text from image: $5 OFF              I
+Spindet Spackling Water         I $Q5OOFF
+aie pack, $O712 lor                 ...
+2025-05-20 19:47:04,724 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-15-459x1024.jpg
+2025-05-20 19:47:06,876 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-15-459x1024.jpg
+2025-05-20 19:47:07,194 - INFO - Extracted text from image: $Q8OOFF             $21OOFF
+‘Snack Factory Organic Pretzel Crisps     Late July     SS
+Boaz         ...
+2025-05-20 19:47:07,194 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-16-457x1024.jpg
+2025-05-20 19:47:09,474 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-16-457x1024.jpg
+2025-05-20 19:47:09,851 - INFO - Extracted text from image: $98 OFF
+‘K-Cup® Pods
+Clue Oot Origen en 77 OR Pets Clee Major Dickason's Bt 75
+ns        OUNKIN'
+Pee...
+2025-05-20 19:47:09,851 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-17-460x1024.jpg
+2025-05-20 19:47:11,414 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-17-460x1024.jpg
+2025-05-20 19:47:11,854 - INFO - Extracted text from image: $4, OFF
+Tattooed Chet Organic Agsibowts «= SOF F
+6.25OO
+Men 1322O6O,                                ...
+2025-05-20 19:47:11,854 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-18-453x1024.jpg
+2025-05-20 19:47:13,689 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-18-453x1024.jpg
+2025-05-20 19:47:14,157 - INFO - Extracted text from image: $3-5 OFF       I $4OFF
+$9 OFF Natal Meatonn 25O1,               (Ghracal Galcum ciate + O5.28O.
+Fast...
+2025-05-20 19:47:14,157 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-19-635x303.jpg
+2025-05-20 19:47:15,814 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-19-635x303.jpg
+2025-05-20 19:47:15,965 - INFO - Extracted text from image: SELF-CARE ESSENTIALS wmrmsssees oo,    el
+i        » gl on Top Pet        ob
+13 2 2
+
+sor  SHO SG5OOr...
+2025-05-20 19:47:16,204 - INFO - Saved 54 records to 2025-05-20_Coupon_Books.xlsx
+2025-05-20 19:47:16,204 - INFO - Scraping Hot Buys...
+2025-05-20 19:47:19,694 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-20 19:47:19,709 - INFO - Found 10 hot buy images
+2025-05-20 19:47:19,709 - INFO - Skipping non-product image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/Costco-Insider4.png
+2025-05-20 19:47:19,709 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/date.png
+2025-05-20 19:47:20,876 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/date.png
+2025-05-20 19:47:20,964 - INFO - Extracted text from image: ...
+2025-05-20 19:47:20,964 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/user.png
+2025-05-20 19:47:21,826 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/user.png
+2025-05-20 19:47:21,915 - INFO - Extracted text from image: &...
+2025-05-20 19:47:21,915 - INFO - Skipping non-product image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Cover.jpg
+2025-05-20 19:47:21,915 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-20 19:47:23,594 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-20 19:47:23,794 - INFO - Extracted text from image: $9 OFF                                $38O OFF                             S3Q OFF
+
+itn Signor Cicer...
+2025-05-20 19:47:23,804 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-20 19:47:25,634 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-20 19:47:25,830 - INFO - Extracted text from image: GAREHOUSE + ONLINE          ROREEHOUSE + OE          RUATEHOUSE + ONLI
+s2O.oFF             S55O     ...
+2025-05-20 19:47:25,831 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-20 19:47:27,304 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-20 19:47:27,469 - INFO - Extracted text from image: IN-WAREHOUSE + ONLINE:                                           IN-WAREHOUSE + ONLINE:
+$4 OFF      ...
+2025-05-20 19:47:27,470 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/folder.png
+2025-05-20 19:47:28,369 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/folder.png
+2025-05-20 19:47:28,454 - INFO - Extracted text from image: Fal...
+2025-05-20 19:47:28,454 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/tag.png
+2025-05-20 19:47:29,477 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/tag.png
+2025-05-20 19:47:29,564 - INFO - Extracted text from image: ‘>...
+2025-05-20 19:47:29,564 - INFO - Downloading image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-20 19:47:30,526 - WARNING - Skipping non-image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-20 19:47:30,549 - INFO - Saved 4 records to 2025-05-20_Hot_Buys_Coupons.xlsx
+2025-05-20 19:47:30,549 - INFO - Done! Check the Excel files.
+2025-05-20 19:55:49,656 - INFO - Tesseract initialized successfully
+2025-05-20 19:55:49,656 - INFO - Scraping Coupon Book...
+2025-05-20 19:55:53,687 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/
+2025-05-20 19:55:53,712 - INFO - Found 19 coupon book images in #coupon-book
+2025-05-20 19:55:53,712 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-1-472x1024.jpg
+2025-05-20 19:55:56,050 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-1-472x1024.jpg
+2025-05-20 19:55:56,487 - INFO - Extracted text from image: ...
+2025-05-20 19:55:56,487 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-2-474x1024.jpg
+2025-05-20 19:55:58,221 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-2-474x1024.jpg
+2025-05-20 19:55:58,576 - INFO - Extracted text from image: fe Costco.com...
+2025-05-20 19:55:58,589 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-3-466x1024.jpg
+2025-05-20 19:56:00,451 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-3-466x1024.jpg
+2025-05-20 19:56:00,796 - INFO - Extracted text from image: ...
+2025-05-20 19:56:00,796 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-4-469x1024.jpg
+2025-05-20 19:56:02,966 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-4-469x1024.jpg
+2025-05-20 19:56:03,296 - INFO - Extracted text from image: ...
+2025-05-20 19:56:03,296 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-5-488x1024.jpg
+2025-05-20 19:56:05,231 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-5-488x1024.jpg
+2025-05-20 19:56:05,896 - INFO - Extracted text from image: BIO. CompleteClea fargeable Toothbr 739. LIMITS ry i NO...
+2025-05-20 19:56:05,896 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-6-467x1024.jpg
+2025-05-20 19:56:07,780 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-6-467x1024.jpg
+2025-05-20 19:56:08,122 - INFO - Extracted text from image: ...
+2025-05-20 19:56:08,122 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-7-461x1024.jpg
+2025-05-20 19:56:10,056 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-7-461x1024.jpg
+2025-05-20 19:56:10,396 - INFO - Extracted text from image: ...
+2025-05-20 19:56:10,396 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-8-466x1024.jpg
+2025-05-20 19:56:12,651 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-8-466x1024.jpg
+2025-05-20 19:56:13,086 - INFO - Extracted text from image: ...
+2025-05-20 19:56:13,086 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-9-461x1024.jpg
+2025-05-20 19:56:16,081 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-9-461x1024.jpg
+2025-05-20 19:56:16,436 - INFO - Extracted text from image: ...
+2025-05-20 19:56:16,436 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-10-463x1024.jpg
+2025-05-20 19:56:18,181 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-10-463x1024.jpg
+2025-05-20 19:56:18,566 - INFO - Extracted text from image: ...
+2025-05-20 19:56:18,566 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-11-463x1024.jpg
+2025-05-20 19:56:20,471 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-11-463x1024.jpg
+2025-05-20 19:56:20,906 - INFO - Extracted text from image: BCOStCOCom Only a eee ostcolnsidercom...
+2025-05-20 19:56:20,906 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-12-459x1024.jpg
+2025-05-20 19:56:23,426 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-12-459x1024.jpg
+2025-05-20 19:56:23,858 - INFO - Extracted text from image: ...
+2025-05-20 19:56:23,858 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-13-458x1024.jpg
+2025-05-20 19:56:26,131 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-13-458x1024.jpg
+2025-05-20 19:56:26,579 - INFO - Extracted text from image: ...
+2025-05-20 19:56:26,579 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-14-460x1024.jpg
+2025-05-20 19:56:28,546 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-14-460x1024.jpg
+2025-05-20 19:56:29,056 - INFO - Extracted text from image: ...
+2025-05-20 19:56:29,056 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-15-459x1024.jpg
+2025-05-20 19:56:31,386 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-15-459x1024.jpg
+2025-05-20 19:56:31,833 - INFO - Extracted text from image: ...
+2025-05-20 19:56:31,833 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-16-457x1024.jpg
+2025-05-20 19:56:34,231 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-16-457x1024.jpg
+2025-05-20 19:56:34,656 - INFO - Extracted text from image: ...
+2025-05-20 19:56:34,656 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-17-460x1024.jpg
+2025-05-20 19:56:37,151 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-17-460x1024.jpg
+2025-05-20 19:56:37,627 - INFO - Extracted text from image: ...
+2025-05-20 19:56:37,627 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-18-453x1024.jpg
+2025-05-20 19:56:40,177 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-18-453x1024.jpg
+2025-05-20 19:56:40,656 - INFO - Extracted text from image: ...
+2025-05-20 19:56:40,656 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-19-635x303.jpg
+2025-05-20 19:56:42,684 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-19-635x303.jpg
+2025-05-20 19:56:42,922 - INFO - Extracted text from image: Sertegiet Hes e peyton rey thee sirerect hare Fx tee taka ey Oa ocd ved Png aawaon I pin 8 2O2S...
+2025-05-20 19:56:42,922 - INFO - Saved 4 coupon book items to coupon_books.csv
+2025-05-20 19:56:42,922 - INFO - Scraping Hot Buys...
+2025-05-20 19:56:46,456 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-20 19:56:46,468 - INFO - Found 10 hot buy images
+2025-05-20 19:56:46,468 - INFO - Skipping non-product image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/Costco-Insider4.png
+2025-05-20 19:56:46,468 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/date.png
+2025-05-20 19:56:47,410 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/date.png
+2025-05-20 19:56:47,496 - INFO - Extracted text from image: ...
+2025-05-20 19:56:47,496 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/user.png
+2025-05-20 19:56:48,616 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/user.png
+2025-05-20 19:56:48,706 - INFO - Extracted text from image: ...
+2025-05-20 19:56:48,706 - INFO - Skipping non-product image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Cover.jpg
+2025-05-20 19:56:48,709 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-20 19:56:50,666 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-20 19:56:50,866 - INFO - Extracted text from image: Kindand Signature Freezet Quart Foad storage Bag Yen 8OI2...
+2025-05-20 19:56:50,866 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-20 19:56:52,876 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-20 19:56:53,066 - INFO - Extracted text from image: WAREHOUSES ONLI hv re...
+2025-05-20 19:56:53,066 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-20 19:56:54,866 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-20 19:56:55,024 - INFO - Extracted text from image: uIN WAREHOUSE ONLINE . N WAREHOUSE 3 CANS LANSS RANT PASSAT...
+2025-05-20 19:56:55,024 - INFO - Fuzzy matched 'uin' to 'Charmin' with score 72.0
+2025-05-20 19:56:55,024 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/folder.png
+2025-05-20 19:56:56,436 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/folder.png
+2025-05-20 19:56:56,526 - INFO - Extracted text from image: ...
+2025-05-20 19:56:56,526 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/tag.png
+2025-05-20 19:56:57,760 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/tag.png
+2025-05-20 19:56:57,846 - INFO - Extracted text from image: ...
+2025-05-20 19:56:57,846 - INFO - Downloading image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-20 19:56:59,356 - WARNING - Skipping non-image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-20 19:56:59,356 - INFO - Saved 3 hot buy items to hot_buys.csv
+2025-05-20 19:56:59,356 - INFO - Done! Check the CSV files.
+2025-05-21 10:09:53,798 - INFO - Tesseract initialized successfully
+2025-05-21 10:09:53,800 - INFO - Scraping Coupon Book...
+2025-05-21 10:09:57,245 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/
+2025-05-21 10:09:57,258 - INFO - Found 19 coupon book images in #coupon-book
+2025-05-21 10:09:57,258 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-1-472x1024.jpg
+2025-05-21 10:09:59,129 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-1-472x1024.jpg
+2025-05-21 10:09:59,600 - INFO - Extracted text from image: ...
+2025-05-21 10:09:59,600 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-2-474x1024.jpg
+2025-05-21 10:10:01,763 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-2-474x1024.jpg
+2025-05-21 10:10:02,135 - INFO - Extracted text from image: fe Costco.com...
+2025-05-21 10:11:02,189 - ERROR - LLM call failed: Command '['ollama', 'run', 'mistral']' timed out after 60 seconds
+2025-05-21 10:11:02,199 - ERROR - No JSON list found in LLM response
+2025-05-21 10:11:02,201 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-3-466x1024.jpg
+2025-05-21 10:11:03,862 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-3-466x1024.jpg
+2025-05-21 10:11:04,306 - INFO - Extracted text from image: ...
+2025-05-21 10:11:04,306 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-4-469x1024.jpg
+2025-05-21 10:11:06,718 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-4-469x1024.jpg
+2025-05-21 10:11:07,060 - INFO - Extracted text from image: ...
+2025-05-21 10:11:07,060 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-5-488x1024.jpg
+2025-05-21 10:11:08,882 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-5-488x1024.jpg
+2025-05-21 10:11:09,581 - INFO - Extracted text from image: BIO. CompleteClea fargeable Toothbr 739. LIMITS ry i NO...
+2025-05-21 10:11:26,213 - INFO - LLM response length: 254 characters
+2025-05-21 10:11:26,214 - ERROR - JSON parsing failed: name 'json' is not defined
+2025-05-21 10:11:26,214 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-6-467x1024.jpg
+2025-05-21 10:11:28,186 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-6-467x1024.jpg
+2025-05-21 10:11:28,567 - INFO - Extracted text from image: ...
+2025-05-21 10:11:28,567 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-7-461x1024.jpg
+2025-05-21 10:11:30,541 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-7-461x1024.jpg
+2025-05-21 10:11:30,894 - INFO - Extracted text from image: ...
+2025-05-21 10:11:30,894 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-8-466x1024.jpg
+2025-05-21 10:11:32,876 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-8-466x1024.jpg
+2025-05-21 10:11:33,335 - INFO - Extracted text from image: ...
+2025-05-21 10:11:33,335 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-9-461x1024.jpg
+2025-05-21 10:11:35,339 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-9-461x1024.jpg
+2025-05-21 10:11:35,737 - INFO - Extracted text from image: ...
+2025-05-21 10:11:35,737 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-10-463x1024.jpg
+2025-05-21 10:11:38,059 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-10-463x1024.jpg
+2025-05-21 10:11:38,499 - INFO - Extracted text from image: ...
+2025-05-21 10:11:38,499 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-11-463x1024.jpg
+2025-05-21 10:11:40,554 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-11-463x1024.jpg
+2025-05-21 10:11:41,064 - INFO - Extracted text from image: BCOStCOCom Only a eee ostcolnsidercom...
+2025-05-21 10:11:55,846 - INFO - LLM response length: 266 characters
+2025-05-21 10:11:55,846 - ERROR - JSON parsing failed: name 'json' is not defined
+2025-05-21 10:11:55,846 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-12-459x1024.jpg
+2025-05-21 10:11:59,120 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-12-459x1024.jpg
+2025-05-21 10:11:59,767 - INFO - Extracted text from image: ...
+2025-05-21 10:11:59,768 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-13-458x1024.jpg
+2025-05-21 10:12:01,799 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-13-458x1024.jpg
+2025-05-21 10:12:02,296 - INFO - Extracted text from image: ...
+2025-05-21 10:12:02,296 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-14-460x1024.jpg
+2025-05-21 10:12:04,273 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-14-460x1024.jpg
+2025-05-21 10:12:04,789 - INFO - Extracted text from image: ...
+2025-05-21 10:12:04,791 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-15-459x1024.jpg
+2025-05-21 10:12:06,782 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-15-459x1024.jpg
+2025-05-21 10:12:07,233 - INFO - Extracted text from image: ...
+2025-05-21 10:12:07,233 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-16-457x1024.jpg
+2025-05-21 10:12:09,888 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-16-457x1024.jpg
+2025-05-21 10:12:10,317 - INFO - Extracted text from image: ...
+2025-05-21 10:12:10,317 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-17-460x1024.jpg
+2025-05-21 10:12:12,558 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-17-460x1024.jpg
+2025-05-21 10:12:13,057 - INFO - Extracted text from image: ...
+2025-05-21 10:12:13,057 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-18-453x1024.jpg
+2025-05-21 10:12:15,649 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-18-453x1024.jpg
+2025-05-21 10:12:16,130 - INFO - Extracted text from image: ...
+2025-05-21 10:12:16,131 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-19-635x303.jpg
+2025-05-21 10:12:17,361 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/05/Costco-May-and-June-2025-Coupon-Book-Page-19-635x303.jpg
+2025-05-21 10:12:17,613 - INFO - Extracted text from image: Sertegiet Hes e peyton rey thee sirerect hare Fx tee taka ey Oa ocd ved Png aawaon I pin 8 2O2S...
+2025-05-21 10:12:33,774 - INFO - LLM response length: 272 characters
+2025-05-21 10:12:33,775 - ERROR - JSON parsing failed: name 'json' is not defined
+2025-05-21 10:12:33,777 - INFO - Scraping Hot Buys...
+2025-05-21 10:12:37,103 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-21 10:12:37,163 - INFO - Found 10 hot buy images
+2025-05-21 10:12:37,164 - INFO - Skipping non-product image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/Costco-Insider4.png
+2025-05-21 10:12:37,164 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/date.png
+2025-05-21 10:12:38,177 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/date.png
+2025-05-21 10:12:38,273 - INFO - Extracted text from image: ...
+2025-05-21 10:12:38,273 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/user.png
+2025-05-21 10:12:39,358 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/user.png
+2025-05-21 10:12:39,449 - INFO - Extracted text from image: ...
+2025-05-21 10:12:39,449 - INFO - Skipping non-product image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Cover.jpg
+2025-05-21 10:12:39,449 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-21 10:12:41,072 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-21 10:12:41,272 - INFO - Extracted text from image: Kindand Signature Freezet Quart Foad storage Bag Yen 8OI2...
+2025-05-21 10:13:08,673 - INFO - LLM response length: 310 characters
+2025-05-21 10:13:08,673 - ERROR - JSON parsing failed: name 'json' is not defined
+2025-05-21 10:13:08,673 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-21 10:13:10,127 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-21 10:13:10,324 - INFO - Extracted text from image: WAREHOUSES ONLI hv re...
+2025-05-21 10:13:11,080 - INFO - LLM response length: 2 characters
+2025-05-21 10:13:11,080 - ERROR - JSON parsing failed: name 'json' is not defined
+2025-05-21 10:13:11,080 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-21 10:13:13,171 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-21 10:13:13,348 - INFO - Extracted text from image: uIN WAREHOUSE ONLINE . N WAREHOUSE 3 CANS LANSS RANT PASSAT...
+2025-05-21 10:13:29,231 - INFO - LLM response length: 297 characters
+2025-05-21 10:13:29,231 - ERROR - JSON parsing failed: name 'json' is not defined
+2025-05-21 10:13:29,231 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/folder.png
+2025-05-21 10:13:29,898 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/folder.png
+2025-05-21 10:13:29,985 - INFO - Extracted text from image: ...
+2025-05-21 10:13:29,985 - INFO - Downloading image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/tag.png
+2025-05-21 10:13:30,655 - INFO - Successfully downloaded and processed image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/tag.png
+2025-05-21 10:13:30,741 - INFO - Extracted text from image: ...
+2025-05-21 10:13:30,741 - INFO - Downloading image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-21 10:13:31,640 - WARNING - Skipping non-image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-21 10:13:31,648 - INFO - Done! Check the CSV files.
