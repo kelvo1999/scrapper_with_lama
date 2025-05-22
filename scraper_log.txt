@@ -771,3 +771,107 @@ $4 OFF      ...
 2025-05-21 16:49:47,274 - INFO - Skipping excluded image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
 2025-05-21 16:49:47,276 - WARNING - No items extracted from article: Costco May 2025 Hot Buys Coupons
 2025-05-21 16:49:47,276 - INFO - Done! All specified Costco coupon data scraped and saved to CSV files.
+2025-05-22 09:53:37,808 - INFO - Tesseract initialized successfully
+2025-05-22 09:53:37,808 - INFO - Starting comprehensive Costco coupon scraping.
+2025-05-22 09:53:37,808 - INFO - 
+--- Processing: Coupon Book - Costco May and June 2025 Coupon Book (Published: 2025-05-13 00:00:00) ---
+2025-05-22 09:53:37,808 - INFO - Scraping images from article: Costco May and June 2025 Coupon Book (https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/#coupon-book)
+2025-05-22 09:53:40,708 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/#coupon-book
+2025-05-22 09:53:40,718 - INFO - Loaded 10 brands from coupon_book_brands.txt
+2025-05-22 09:53:40,733 - INFO - Final count of images found using selectors: 1 for https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/#coupon-book.
+2025-05-22 09:53:40,733 - INFO - Skipping excluded image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+and+June+2025+Coupon+Book&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101152&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-and-june-2025-coupon-book%2F
+2025-05-22 09:53:40,733 - WARNING - No items extracted from article: Costco May and June 2025 Coupon Book
+2025-05-22 09:53:40,733 - INFO - 
+--- Processing: Hot Buys - Costco May 2025 Hot Buys Coupons (Published: 2025-04-27 00:00:00) ---
+2025-05-22 09:53:40,738 - INFO - Scraping images from article: Costco May 2025 Hot Buys Coupons (https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/)
+2025-05-22 09:53:43,379 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-22 09:53:43,379 - INFO - Loaded 9 brands from hot_buy_brands.txt
+2025-05-22 09:53:43,395 - WARNING - No specific images found for https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/, falling back to all <img> tags. Found 10.
+2025-05-22 09:53:43,396 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/Costco-Insider4.png
+2025-05-22 09:53:43,396 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/date.png
+2025-05-22 09:53:43,396 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/user.png
+2025-05-22 09:53:43,397 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Cover.jpg
+2025-05-22 09:53:43,397 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-22 09:53:43,397 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-22 09:53:43,397 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-22 09:53:43,398 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/folder.png
+2025-05-22 09:53:43,398 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/tag.png
+2025-05-22 09:53:43,398 - INFO - Skipping excluded image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-22 09:53:43,398 - WARNING - No items extracted from article: Costco May 2025 Hot Buys Coupons
+2025-05-22 09:53:43,398 - INFO - Done! All specified Costco coupon data scraped and saved to CSV files.
+2025-05-22 10:05:13,207 - INFO - Tesseract initialized successfully
+2025-05-22 10:05:13,207 - INFO - Starting comprehensive Costco coupon scraping.
+2025-05-22 10:05:13,207 - INFO - 
+--- Processing: Coupon Book - Costco May and June 2025 Coupon Book (Published: 2025-05-13 00:00:00) ---
+2025-05-22 10:05:13,207 - INFO - Scraping images from article: Costco May and June 2025 Coupon Book (https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/#coupon-book)
+2025-05-22 10:05:15,989 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/#coupon-book
+2025-05-22 10:05:15,989 - INFO - Loaded 10 brands from coupon_book_brands.txt
+2025-05-22 10:05:16,008 - INFO - Final count of images found using selectors: 1 for https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/#coupon-book.
+2025-05-22 10:05:16,009 - INFO - Skipping excluded image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+and+June+2025+Coupon+Book&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101152&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-and-june-2025-coupon-book%2F
+2025-05-22 10:05:16,009 - WARNING - No items extracted from article: Costco May and June 2025 Coupon Book
+2025-05-22 10:05:16,009 - INFO - 
+--- Processing: Hot Buys - Costco May 2025 Hot Buys Coupons (Published: 2025-04-27 00:00:00) ---
+2025-05-22 10:05:16,009 - INFO - Scraping images from article: Costco May 2025 Hot Buys Coupons (https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/)
+2025-05-22 10:05:18,379 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-22 10:05:18,379 - INFO - Loaded 9 brands from hot_buy_brands.txt
+2025-05-22 10:05:18,387 - WARNING - No specific images found for https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/, falling back to all <img> tags. Found 10.
+2025-05-22 10:05:18,387 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/Costco-Insider4.png
+2025-05-22 10:05:18,387 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/date.png
+2025-05-22 10:05:18,387 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/user.png
+2025-05-22 10:05:18,387 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Cover.jpg
+2025-05-22 10:05:18,387 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-1-635x335.jpg
+2025-05-22 10:05:18,387 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-2-635x337.jpg
+2025-05-22 10:05:18,391 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/uploads/2025/04/Costco-May-2025-Hot-Buys-Coupons-Page-3-635x246.jpg
+2025-05-22 10:05:18,391 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/folder.png
+2025-05-22 10:05:18,391 - INFO - Skipping excluded image: https://www.costcoinsider.com/wp-content/themes/Selin5.4/images/tag.png
+2025-05-22 10:05:18,391 - INFO - Skipping excluded image: https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+2025+Hot+Buys+Coupons&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101121&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-2025-hot-buys-coupons%2F
+2025-05-22 10:05:18,391 - WARNING - No items extracted from article: Costco May 2025 Hot Buys Coupons
+2025-05-22 10:05:18,391 - INFO - Done! All specified Costco coupon data scraped and saved to CSV files.
+2025-05-22 10:27:52,604 - ERROR - Tesseract init error: C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.. Please ensure Tesseract is installed and the path is correct.
+2025-05-22 10:30:11,789 - INFO - Tesseract initialized successfully
+2025-05-22 10:30:11,789 - INFO - Starting Costco coupon scraper
+2025-05-22 10:30:11,789 - INFO - 
+Processing: Costco May and June 2025 Coupon Book
+2025-05-22 10:30:11,789 - INFO - Scraping coupon book from: https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/
+2025-05-22 10:30:14,195 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/
+2025-05-22 10:30:14,195 - INFO - Loaded 10 brands from coupon_book_brands.txt
+2025-05-22 10:30:14,216 - INFO - Found 0 images on page
+2025-05-22 10:30:14,217 - INFO - 
+Processing: Costco May 2025 Hot Buys Coupons
+2025-05-22 10:30:14,217 - INFO - Scraping hot buys from: https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-22 10:30:16,581 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-22 10:30:16,581 - INFO - Loaded 9 brands from hot_buy_brands.txt
+2025-05-22 10:30:16,588 - INFO - Found 0 images on page
+2025-05-22 10:30:16,588 - WARNING - No items were extracted from any pages
+2025-05-22 10:33:18,636 - INFO - Tesseract initialized successfully
+2025-05-22 10:33:18,636 - INFO - Starting Costco coupon scraper
+2025-05-22 10:33:18,636 - INFO - 
+Processing: Costco May and June 2025 Coupon Book
+2025-05-22 10:33:18,636 - INFO - Scraping coupon book from: https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/
+2025-05-22 10:33:21,016 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/
+2025-05-22 10:33:21,027 - INFO - Loaded 10 brands from coupon_book_brands.txt
+2025-05-22 10:33:21,036 - INFO - Found 1 images on page
+2025-05-22 10:33:21,068 - ERROR - Error processing image https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+and+June+2025+Coupon+Book&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101152&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-and-june-2025-coupon-book%2F: HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+and+June+2025+Coupon+Book&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101152&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-and-june-2025-coupon-book%2F (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2025-05-22 10:33:21,076 - INFO - 
+Processing: Costco May 2025 Hot Buys Coupons
+2025-05-22 10:33:21,076 - INFO - Scraping hot buys from: https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-22 10:33:23,437 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-22 10:33:23,437 - INFO - Loaded 9 brands from hot_buy_brands.txt
+2025-05-22 10:33:23,451 - INFO - Found 0 images on page
+2025-05-22 10:33:23,453 - WARNING - No items were extracted from any pages
+2025-05-22 10:34:15,853 - INFO - Tesseract initialized successfully
+2025-05-22 10:34:15,853 - INFO - Starting Costco coupon scraper
+2025-05-22 10:34:15,853 - INFO - 
+Processing: Costco May and June 2025 Coupon Book
+2025-05-22 10:34:15,853 - INFO - Scraping coupon book from: https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/#coupon-book
+2025-05-22 10:34:18,196 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-and-june-2025-coupon-book/#coupon-book
+2025-05-22 10:34:18,198 - INFO - Loaded 10 brands from coupon_book_brands.txt
+2025-05-22 10:34:18,208 - INFO - Found 1 images on page
+2025-05-22 10:34:18,240 - ERROR - Error processing image https://www.facebook.com/tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+and+June+2025+Coupon+Book&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101152&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-and-june-2025-coupon-book%2F: HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /tr?id=182975522258099&ev=PageView&noscript=1&cd%5Bpost_category%5D=Coupons%2C+Featured&cd%5Bpage_title%5D=Costco+May+and+June+2025+Coupon+Book&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=101152&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.costcoinsider.com%2Fcostco-may-and-june-2025-coupon-book%2F (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+2025-05-22 10:34:18,240 - INFO - 
+Processing: Costco May 2025 Hot Buys Coupons
+2025-05-22 10:34:18,240 - INFO - Scraping hot buys from: https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-22 10:34:20,617 - INFO - Successfully fetched https://www.costcoinsider.com/costco-may-2025-hot-buys-coupons/
+2025-05-22 10:34:20,619 - INFO - Loaded 9 brands from hot_buy_brands.txt
+2025-05-22 10:34:20,619 - INFO - Found 0 images on page
+2025-05-22 10:34:20,619 - WARNING - No items were extracted from any pages
